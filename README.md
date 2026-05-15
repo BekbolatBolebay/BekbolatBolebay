@@ -16,22 +16,21 @@
 
 ### About Me
 I am a modern web and mobile developer. Coding is not just a job for me, it is creativity.
-- Currently: I am studying projects based on AI and Machine Learning.
-- - My interests: Simplifying complex architectures and creating fast applications.
-  - - Questions: If you need help with Web, Flutter or Python, just ask!
-   
-    - ---
+Currently I am studying projects based on AI and Machine Learning.
+My interests are simplifying complex architectures and creating fast applications.
+If you need help with Web, Flutter or Python, just ask!
 
-    ### Tech Stack
-    ![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,ts,flutter,dart,python,pytorch,tensorflow,docker,postgres,git,linux,vscode)
+---
 
-    ---
+### Tech Stack
+![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,ts,flutter,dart,python,pytorch,tensorflow,docker,postgres,git,linux,vscode)
 
-    ### Statistics
-    ![Stats](https://github-readme-stats.vercel.app/api?username=BekbolatBolebay&show_icons=true&theme=radical)
-    ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekbolatBolebay&layout=compact&theme=radical)
-    <br/>
-    ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekbolatBolebay&theme=radical)
+---
 
-    //div>
-    
+### Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=BekbolatBolebay&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekbolatBolebay&layout=compact&theme=radical)
+<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekbolatBolebay&theme=radical)
+
+</div>
