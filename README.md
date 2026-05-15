@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Modern+Web+Developer;Mobile+App+Developer+(Flutter);AI+%26+ML+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
     </a>a>
       <p align="center">
-          <img src="https://komarev.com/ghpvc/?username=BekbolatBolebay&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
+          <img src="https://komarev.com/ghpvc/?username=BekbolatBolebay&label =Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
       </p>p>
         <p align="center">
             <a href="https://t.me/bolebaybekbolat" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>a>
