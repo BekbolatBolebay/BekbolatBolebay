@@ -1,19 +1,72 @@
-# 👋 Hi, I'm @BekbolatBolebay
-Welcome to my GitHub profile! :)
-
-## 🚀 About Me
-I am a modern web and mobile application developer with a keen interest in Artificial Intelligence (AI) and Machine Learning (ML).
-
-### 🛠 Tech Stack & Tools:
-
-- ![React/TSX](https://img.shields.io/badge/-React/TSX-61DAFB?style=flat-square&logo=react&logoColor=black) **React / TSX**: Developing interactive user interfaces and reusable components.
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) **Next.js**: Building fast, optimized, and SEO-friendly modern web applications.
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) **Flutter**: Crafting high-performance cross-platform mobile apps for Android & iOS.
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**: Containerizing applications for seamless deployment.
-- ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white) **Machine Learning (ML)**: Data analysis, neural networks, and training AI models.
+<div align="center">
+  <img src="media/banner.png" alt="Bekbolat Bolebay Banner" width="100%">
+  
+  <br/>
+  
+  <h1>👋 Сәлем! Мен Бекболатпын</h1>
+  <h3>🚀 Modern Web & Mobile App Developer | AI & Machine Learning Enthusiast</h3>
+  
+  <p align="center">
+    <a href="https://github.com/BekbolatBolebay">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://t.me/bolebaybekbolat">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/your_instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 💬 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-@bolebaybekbolat-blue?style=flat-square&logo=telegram)](https://t.me/bolebaybekbolat)
-[![Instagram](https://img.shields.io/badge/Instagram-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your_instagram)
+### 📖 Өзім туралы
+
+Мен заманауи веб және мобильді қосымшаларды әзірлеумен айналысамын. Жасанды интеллект (AI) және Machine Learning (ML) салаларына деген қызығушылығым жоғары. Әрқашан жаңа технологияларды үйренуге және күрделі мәселелерді шешуге дайынмын.
+
+---
+
+### 🛠 Технологиялық стек
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,flutter,dart,docker,python,pytorch,tensorflow,git,vscode,linux" />
+  </a>
+</p>
+
+- **Frontend:** React, Next.js, TSX
+- **Mobile:** Flutter (Dart)
+- **Backend & DevOps:** Docker, Git
+- **AI/ML:** Python, Data Analysis, Neural Networks
+
+---
+
+### 📊 Менің статистикаларым
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BekbolatBolebay&show_icons=true&theme=tokyonight" alt="Bekbolat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekbolatBolebay&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekbolatBolebay&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 💬 Байланыс
+
+Егер сізде сұрақтар болса немесе бірлесіп жұмыс істегіңіз келсе, маған жазудан тартынбаңыз!
+
+- 📱 **Telegram:** [@bolebaybekbolat](https://t.me/bolebaybekbolat)
+- 📸 **Instagram:** [@your_instagram](https://instagram.com/your_instagram)
+- 📧 **Email:** bekbolat@example.com (мысал ретінде)
+
+<div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
