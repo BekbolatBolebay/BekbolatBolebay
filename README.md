@@ -1,13 +1,13 @@
 <div align="center">
 
 # Bekbolat Bolebay
-### Web & Mobile Developer · System Architect
+### Web & Mobile Developer · System Architect · Server Engineer
 
 <p align="center">
-  <em>Designing resilient system architectures, high-performance web platforms, and native mobile ecosystems.</em>
+  <em>Architecting distributed systems, production Linux server infrastructures, and cross-platform applications.</em>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=16&pause=1200&color=C9D1D9&center=true&vCenter=true&width=550&lines=Web+%26+Mobile+Engineering;Distributed+Systems+Architecture;ERP+%26+Cloud+Solutions;Clean+Code+%26+Scalable+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=500&size=16&pause=1200&color=C9D1D9&center=true&vCenter=true&width=620&lines=System+Architecture+%26+Infrastructure;Linux+Server+Administration+%26+DevOps;Web+%26+Mobile+Engineering+(Next.js%2C+Flutter);Enterprise+ERP+%26+Cloud+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,9 +21,10 @@
 
 ### Overview
 
-- **Role**: System Architect & Full-Stack Engineer (Web & Mobile).
-- **Core Focus**: End-to-end architecture design, microservices, cloud-native ERP/CRM solutions, and cross-platform mobile apps.
-- **Philosophy**: Minimalist interfaces, robust data structures, and predictable system behavior.
+- **Specialization**: System Architecture, Linux Server Administration, and Full-Stack Web/Mobile Engineering.
+- **Server & Infrastructure**: Deploying, hardening, and maintaining Linux production servers (Ubuntu/Debian), reverse proxies (Nginx), SSL/TLS orchestration, and process supervision (Systemd, PM2, Docker).
+- **Architecture**: Designing scalable ERP/CRM business engines, microservice boundaries, caching strategies, and resilient database schemas.
+- **Core Stacks**: Flutter & Dart for native cross-platform apps, Next.js/React & TypeScript for high-performance frontends, Python & Node.js for backend services.
 
 ---
 
@@ -31,35 +32,45 @@
 
 <table>
   <tr>
-    <td width="20%" align="center"><strong>Architecture & Cloud</strong></td>
+    <td width="22%" align="center"><strong>Server & Infrastructure</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/System_Design-000000?style=flat-square" alt="System Design" />
-      <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square" alt="Microservices" />
-      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+      <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Debian-000000?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
       <img src="https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Bash_Scripting-000000?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/SSH_&_Security-000000?style=flat-square" alt="SSH & Security" />
       <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><strong>Mobile Development</strong></td>
+    <td width="22%" align="center"><strong>Architecture & Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/iOS_&_Android-000000?style=flat-square" alt="Mobile OS" />
+      <img src="https://img.shields.io/badge/System_Design-000000?style=flat-square" alt="System Design" />
+      <img src="https://img.shields.io/badge/Microservices-000000?style=flat-square" alt="Microservices" />
+      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center"><strong>Web & Backend</strong></td>
+    <td width="22%" align="center"><strong>Web & Frontend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><strong>Mobile Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/iOS_&_Android-000000?style=flat-square" alt="Mobile OS" />
     </td>
   </tr>
 </table>
