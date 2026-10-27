@@ -80,12 +80,12 @@
 ### Activity & Dynamic Language Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BekbolatBolebay&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&langs_count=6" alt="Most Used Languages" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BekbolatBolebay&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&count_private=true" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BekbolatBolebay&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&langs_count=6&cache_seconds=1800" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BekbolatBolebay&show_icons=true&theme=dark&hide_border=true&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&count_private=true&cache_seconds=1800" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BekbolatBolebay&theme=dark&hide_border=true&stroke=30363D&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=BekbolatBolebay&theme=dark&hide_border=true&stroke=30363D&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=C9D1D9&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
